@@ -1,0 +1,14 @@
+[R]
+[M]2;FER
+[M]3;COBALT
+[M]4;PLATINE
+[M]5;ARGENT
+[E]0
+[J]1;2
+[E]1
+[J]1;5
+[E]2
+[J]2;3
+[E]3
+[J]5;4
+[E]4

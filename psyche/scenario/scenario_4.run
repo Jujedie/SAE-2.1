@@ -1,0 +1,124 @@
+[R]
+[M]30;MONNAIE
+[M]31;NICKEL
+[M]28;MONNAIE
+[M]29;OR
+[M]27;OR
+[M]4;PLATINE
+[M]3;ALUMINIUM
+[M]24;TITANE
+[M]23;ALUMINIUM
+[M]22;MONNAIE
+[M]5;ALUMINIUM
+[M]6;COBALT
+[M]2;PLATINE
+[M]7;FER
+[M]8;MONNAIE
+[M]12;MONNAIE
+[M]25;MONNAIE
+[M]26;ALUMINIUM
+[M]20;ARGENT
+[M]9;FER
+[M]13;FER
+[M]14;ARGENT
+[M]21;TITANE
+[M]19;ARGENT
+[M]18;NICKEL
+[M]17;OR
+[M]10;COBALT
+[M]11;ARGENT
+[M]16;PLATINE
+[M]15;OR
+[E]0
+[J]1;2
+[D]Joueur 1 a sélectionné Rome en premier puis a pris la mine 2 bleue.
+[E]1
+[J]2;3
+[D]Joueur 2 a sélectionné la mine 2 bleue puis a pris la mine 8 bleue.
+[E]2
+[J]1;9
+[D]Joueur 1 va de Rome à la mine 1 grise.
+[E]3
+[J]9;10
+[D]Joueur 2 va de la mine 1 grise à la mine 3 grise
+[E]4
+[J]9;13
+[D]Joueur 1 va de la mine 1 grise à la mine 1 jaune.
+[E]5
+[J]13;14
+[D]Joueur 2 va de la mine 1 jaune à la mine 4 jaune.
+[E]6
+[J]14;15
+[D]Joueur 1 va de la mine 4 jaune à la mine 2 jaune.
+[E]7
+[J]3;4
+[D]Joueur 2 va de la mine 8 bleue à la mine 6 bleue.
+[E]8
+[J]15;16
+[D]Joueur 1 va de la mine 2 jaune à la mine 1 jaune.
+[E]9
+[J]13;16
+[J]16;11
+[D]Joueur 2 va de la mine 1 jaune à la mine 1 grise.
+[E]10
+[J]1;17
+[D]Joueur 1 va de Rome à la mine 1 marron.
+[E]11
+[J]17;18
+[D]Joueur 2 va de la mine 1 marron à la mine 4 marron.
+[E]12
+[J]3;29
+[D]Joueur 1 va de la mine 8 bleue à la mine 3 verte.
+[E]13
+[J]4;5
+[D]Joueur 2 va de la mine 6 bleue à la mine 3 bleue.
+[E]14
+[J]2;7
+[D]Joueur 1 va de la mine 2 bleue à la mine 2 grise.
+[E]15
+[J]5;6
+[D]Joueur 2 va de la mine 3 bleue à la mine 4 bleue.
+[E]16
+[J]14;12
+[D]Joueur 1 va de la mine 4 jaune à la mine 3 jaune.
+[E]17
+[J]5;22
+[D]Joueur 2 va de la mine 3 bleue à la mine 1 rouge.
+[E]18
+[J]4;22
+[J]22;23
+[D]Joueur 1 va de la mine 6 bleue à la mine 3 rouge.
+[E]19
+[J]23;24
+[D]Joueur 2 va de la mine 3 rouge à la mine 5 rouge.
+[E]20
+[J]23;27
+[D]Joueur 1 va de la mine 3 rouge à la mine 6 verte.
+[E]21
+[J]24;25
+[D]Joueur 2 va de la mine 5 rouge à la mine 4 rouge.
+[E]22
+[J]1;20
+[D]Joueur 1 va de Rome à la mine 2 marron.
+[E]23
+[J]29;30
+[D]Joueur 2 va de la mine 3 verte à la mine 4 verte?
+[E]24
+[J]20;19
+[D]Joueur 1 va de la mine 2 marron à la mine 3 marron.
+[E]25
+[J]19;21
+[D]Joueur 2 va de la mine 3 marron à la mine 5 marron.
+[E]26
+[J]21;26
+[D]Joueur 1 va la mine 5 marron à la mine 2 rouge.
+[E]27
+[J]30;31
+[D]Joueur 2 va de la mine 4 verte à la mine 8 verte.
+[E]28
+[J]12;8
+[D]Joueur 2 va de la mine 3 jaune à la mine 4 grise.
+[E]29
+[J]4;28
+[D]Joueur 1 va de la mine 6 bleue à la mine 2 verte.
+[E]30
